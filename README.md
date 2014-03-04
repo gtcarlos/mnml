@@ -2,7 +2,7 @@ Forked from ioveracker/mnml
 
 Few changes:
 - Translate to portuguese some terms
-- Change license (according to my blog [ShowTheCode](http://www.showthecode.com.br)
+- Change license (according to my blog [ShowTheCode](http://www.showthecode.com.br))
 - Change title sizes
 
 mnml
