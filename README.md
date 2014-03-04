@@ -1,3 +1,10 @@
+Forked from ioveracker/mnml
+
+Few changes:
+- Translate to portuguese some terms
+- Change license (according to my blog [ShowTheCode](http://www.showthecode.com.br)
+- Change title sizes
+
 mnml
 ====
 
@@ -9,7 +16,7 @@ Using mnml?  Consider adding your site to the [wiki](https://github.com/ioverack
 
 #Install
     $ cd octopress
-    $ git clone git://github.com/ioveracker/mnml.git .themes/mnml
+    $ git clone git://github.com/gtcarlos/mnml.git .themes/mnml
     $ rake install['mnml']
     $ rake generate
     
