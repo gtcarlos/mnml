@@ -4,6 +4,7 @@ Few changes:
 - Translate to portuguese some terms
 - Change license (according to my blog [ShowTheCode](http://www.showthecode.com.br))
 - Change title sizes
+- Add Author link to Navigation menu
 
 mnml
 ====
