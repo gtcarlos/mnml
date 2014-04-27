@@ -19,7 +19,7 @@ Using mnml?  Consider adding your site to the [wiki](https://github.com/ioverack
 
 #Install
     $ cd octopress
-    $ git clone git://github.com/gtcarlos/mnml.git .themes/mnml
+		$ git clone git@bitbucket.org:gtcarlos/mnml.git .themes/mnml
     $ rake install['mnml']
     $ rake generate
     
